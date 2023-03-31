@@ -1,0 +1,44 @@
+*{
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 16pt
+    
+}
+
+
+
+body {
+    width: fit-content;
+    background-image: url("https://i0.wp.com/www.funnymeetingbackgrounds.com/wp-content/uploads/2021/02/ezgif-3-d9e22ca6d150.jpg?fit=602%2C540&ssl=1");
+    /*background-repeat: no-repeat;
+    background-size: cover;*/
+
+    
+    }
+
+img {
+    max-width: 40%;
+    height: auto;
+    /*display: block;*/
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 7.5px solid goldenrod;
+}
+
+.h2{
+    text-align: center;
+}
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 2%;
+    font-size: 50px;
+    background: rgba(218, 165, 32, .5);
+}
+
+.text{
+    background: rgba(218, 165, 32, .5);
+}
